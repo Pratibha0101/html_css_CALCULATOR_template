@@ -15,7 +15,6 @@ for(int i=0; i<n; i++)
 array[i]=sc.nextInt();  
 }  
 System.out.println("Array elements are: ");  
-// accessing array elements using the for loop  
 for (int i=0; i<n; i++)   
 {  
 System.out.println(array[i]);  
